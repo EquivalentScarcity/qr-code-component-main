@@ -1,0 +1,51 @@
+.attribution{
+    font-size: 11px; text-align: center; 
+    
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+
+    background-color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
+.cardclass{
+    margin:auto;
+    background-color: white;
+}
+
+
+.improveText{
+    width: 250px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 15px;
+    margin:0 1px 0 1px
+}
+
+.scanText{
+    width: 250px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 15px;
+    margin::0 1px 0 1px
+}
+
+
+.whitePanel{
+    border: 10px;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 15px;
+}
+
+img{
+    border-radius: 15px;
+    padding-bottom: 15px;
+}
